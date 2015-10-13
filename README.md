@@ -1,2 +1,2 @@
 # nilaydshah.github.io
-My Github page - rediret to http://www.nilayshah.in
+My webpage: http://www.nilayshah.in
